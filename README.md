@@ -18,7 +18,8 @@ An automated web scraping pipeline that extracts dynamic content from any websit
 
 ## Demo
 
-> *(Add a screenshot or short screen recording here showing a URL being scraped and parsed — this is the single highest-impact thing you can add to this README.)*
+<img width="1893" height="946" alt="image" src="https://github.com/user-attachments/assets/6513e6c2-0dd4-4fd2-a764-5cbd08873b16" />
+
 
 ## Setup
 
